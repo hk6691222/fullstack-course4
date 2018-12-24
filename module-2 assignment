@@ -5,14 +5,15 @@
 <title>The Colorful Page</title>
 <style>
 h1 {
-  margin-top: center;
+  text-align: center;
 }
   
 div.e1 {
   width: 300px;
   padding: 20px;
   margin: 40px;
-  font-size: italic;
+  font-style: italic;
+  font-size: 16px;
   box-sizing: border-box;
   background-color: red;
   float: left;
@@ -22,7 +23,8 @@ div.e2 {
   width: 300px;
   padding: 20px;
   margin: 40px;
-  font-size: italic;
+  font-style: italic;
+  font-size: 16px;
   box-sizing: border-box;
   background-color: blue;
   float: left;
@@ -32,7 +34,8 @@ div.e3 {
   width: 300px;
   padding: 20px;
   margin: 40px;
-  font-size: italic;
+  font-style: italic;
+  font-size: 16px;
   box-sizing: border-box;
   background-color: green;
   float: left;
