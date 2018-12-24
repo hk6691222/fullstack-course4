@@ -13,7 +13,7 @@ div.e1 {
   padding: 20px;
   margin: 40px;
   font-style: italic;
-  font-size: 17px;
+  font-size: 16px;
   box-sizing: border-box;
   background-color: red;
   float: left;
@@ -24,7 +24,7 @@ div.e2 {
   padding: 20px;
   margin: 40px;
   font-style: italic;
-  font-size: 17px;
+  font-size: 16px;
   box-sizing: border-box;
   background-color: blue;
   float: left;
@@ -35,7 +35,7 @@ div.e3 {
   padding: 20px;
   margin: 40px;
   font-style: italic;
-  font-size: 17px;
+  font-size: 16px;
   box-sizing: border-box;
   background-color: green;
   float: left;
