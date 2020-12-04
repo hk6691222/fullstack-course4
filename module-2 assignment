@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>The Colorful Page</title>
+<style>
+h1 {
+  text-align: center;
+}
+  
+div.e1 {
+  width: 300px;
+  padding: 20px;
+  margin: 40px;
+  font-style: italic;
+  font-size: 16px;
+  box-sizing: border-box;
+  background-color: red;
+  float: left;
+}
+
+div.e2 {
+  width: 300px;
+  padding: 20px;
+  margin: 40px;
+  font-style: italic;
+  font-size: 16px;
+  box-sizing: border-box;
+  background-color: blue;
+  float: left;
+}
+
+div.e3 {
+  width: 300px;
+  padding: 20px;
+  margin: 40px;
+  font-style: italic;
+  font-size: 16px;
+  box-sizing: border-box;
+  background-color: green;
+  float: left;
+}
+
+</style>
+</head>
+<body>
+
+<h1>The Colorful Page</h1>
+<div class="e1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est maxime aperism blandities reprehenderit voluptatum quia quas nesciunt amet atque pos.</div>
+<div class="e2">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est maxime aperism blandities reprehenderit voluptatum quia quas nesciunt amet atque pos.</div>
+<div class="e3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est maxime aperism blandities reprehenderit voluptatum quia quas nesciunt amet atque pos.</div>
+
+</body>
+</html>
